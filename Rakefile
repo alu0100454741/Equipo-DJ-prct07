@@ -1,6 +1,8 @@
 $:.unshift File.dirname(__FILE__) + 'lib'
 
-task :default => :bin
+require 'rspec/core/rake_task'
+RSpec::Core::RakeTask.new
+task :default => :spec
 
 desc "Instalar las gemas requeridas con bundle"
 task :install do
