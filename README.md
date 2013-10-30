@@ -6,7 +6,7 @@ Práctica de Laboratorio #6
 Desarrollo Dirigido por Pruebas
 -------------------------------
 
-Diego Williams Aguilar Montaño  
+Diego Williams Aguilar Montaño CR7
 Javier Mena Mena
 
 Descripción de la práctica
