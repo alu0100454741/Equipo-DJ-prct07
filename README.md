@@ -32,6 +32,7 @@ Instrucciones
 4. Para ejecutar rspec rspec con formato: html, hacerlo mediante el rake proporcionado:
 
         $ rake thtml
+5. travis
 
 ---
 
