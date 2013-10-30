@@ -27,7 +27,7 @@ describe Fraccion do
     @frac1.denominador.should == 1
   end
 
-  it "Para la fracción 8/2 debe de estar en su forma reducida" do
+  it "Para la fraccion 8/2 debe de estar en su forma reducida" do
     @frac1.numerador.should_not == 8
     @frac1.numerador.should_not == 2
   end
