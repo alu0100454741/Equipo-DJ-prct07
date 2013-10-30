@@ -4,7 +4,9 @@ Práctica de Laboratorio #7
 Herramienta Travis 
 ------------------
 
-Diego Williams Aguilar Montaño 
+Equipo-DJ 
+---------
+Diego Williams Aguilar Montaño   
 Javier Mena Mena
 
 Descripción de la práctica
