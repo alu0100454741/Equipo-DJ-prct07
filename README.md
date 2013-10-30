@@ -1,38 +1,20 @@
-Práctica de Laboratorio #6
-==========================
+Práctica de Laboratorio #7 - VIRTUAL - EQUIPO
+=============================================
 
-
-
-Desarrollo Dirigido por Pruebas
--------------------------------
+Herramienta Travis 
+------------------
 
 Diego Williams Aguilar Montaño 
 Javier Mena Mena
 
 Descripción de la práctica
 --------------------------
-Esta práctica en grupo consiste en el desarrollo de una clase Ruby para representar fracciones. Se ha creado una clase 'Fraccion' usando Desarrollo Dirigido por el Comportamiento (Behavior Driven Development - BDD) como caso particular del Desarrollo dirigido por pruebas (Test Driven Development - TDD) usando como herramienta Rspec. 
+Esta práctica virtual en grupo consiste en las modificaciones oportunas para contemplar el uso del módulo Comparable, la clase se ha de compilar con la herramienta Travis de integración continua, con ella se comprueba la portabilidad de los desarrollos entre distintas plataformas y versiones de Ruby.
 
 
-Instrucciones
--------------
-
-1. Ejecutar la siguiente instrucción para instalar las gemas requeridas mediante el archivo rake proporcionado:
-
-        $ rake install  
-
-2. Para ejecutar lib/frac_main.rb, hacerlo mediante el rake proporcionado:
-
-        $ rake bin  
-
-3. Para ejecutar rspec con documentación --format, hacerlo mediante el rake proporcionado:
-
-        $ rake test  
-
-4. Para ejecutar rspec rspec con formato: html, hacerlo mediante el rake proporcionado:
-
-        $ rake thtml
-5. travis
+Estado
+------
+[![Build Status](https://travis-ci.org/alu0100454741/Equipo-DJ-prct07.png?branch=master)](https://travis-ci.org/alu0100454741/Equipo-DJ-prct07)
 
 ---
 
