@@ -1,5 +1,5 @@
-Práctica de Laboratorio #7 - VIRTUAL - EQUIPO
-=============================================
+Práctica de Laboratorio #7 
+==========================
 
 Herramienta Travis 
 ------------------
